@@ -1,4 +1,5 @@
 # npx create-react-app nome --template typescript
+# npm install react-router-dom@6
 # components
 # pages
 # routes
